@@ -18,7 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.navigationItem.title = @"111";
+    self.navigationItem.title = @"Dog";
     
     UIButton* btn = [UIButton buttonWithType:(UIButtonTypeRoundedRect)];
     btn.frame = CGRectMake(100, 100, 100, 100);
